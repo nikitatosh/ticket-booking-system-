@@ -1,0 +1,76 @@
+[
+  {
+    "name": "sasmita",
+    "hashedPassword": "$2a$10$6c8TBZb/pdzvRqkOOJ7oaeP4lvWeFNyozUQ5F0jFEnVucFnH1NxKy",
+    "ticketBooked": [
+      {
+        "ticketId": "bf8d8df0-440b-4e89-9b08-01685c76fc0d",
+        "userId": "da9b7bba-b4fe-4134-b49c-5659cb5e8f93",
+        "source": "chennai",
+        "destination": "delhi",
+        "dateOfTravel": "20-09-2026",
+        "ticket": {
+          "trainId": "T102",
+          "trainNo": "54321",
+          "seats": [
+            [true, true, true, true, true, true],
+            [true, true, true, true, true, true],
+            [true, true, true, false, true, true],
+            [true, true, true, true, true, true]
+          ],
+          "stationTime": {
+            "chennai": "09:00:00",
+            "hyderabad": "15:30:00",
+            "delhi": "23:00:00"
+          },
+          "station": [
+            "chennai",
+            "hyderabad",
+            "delhi"
+          ]
+        }
+      }
+    ],
+    "userId": "da9b7bba-b4fe-4134-b49c-5659cb5e8f93"
+  },
+  {
+    "name": "nikita",
+    "hashedPassword": "$2a$10$u5IQugRZ4jitOGmM36uHyO8EMikLV6htUPolft9KLALogHSuonirC",
+    "ticketBooked": [],
+    "userId": "a118856f-67e4-48ce-9914-c5de03d7772d"
+  },
+  {
+    "name": "nnn",
+    "hashedPassword": "$2a$10$wAsuz4ii46r3vtC8v46.vOITTvkb9NFbSXZHiNLRMewlzYYtZBV22",
+    "ticketBooked": [
+      {
+        "ticketId": "c9cf3589-5844-4839-849b-cb9a501b79f2",
+        "userId": "849a6f4c-b8d4-4666-9ba1-09e8011c1b64",
+        "source": "chennai",
+        "destination": "delhi",
+        "dateOfTravel": "20-12-26",
+        "ticket": {
+          "trainId": "T102",
+          "trainNo": "54321",
+          "seats": [
+            [true, true, true, true, true, true],
+            [true, true, true, true, true, true],
+            [true, true, false, false, true, true],
+            [true, true, true, true, true, true]
+          ],
+          "stationTime": {
+            "chennai": "09:00:00",
+            "hyderabad": "15:30:00",
+            "delhi": "23:00:00"
+          },
+          "station": [
+            "chennai",
+            "hyderabad",
+            "delhi"
+          ]
+        }
+      }
+    ],
+    "userId": "849a6f4c-b8d4-4666-9ba1-09e8011c1b64"
+  }
+]
